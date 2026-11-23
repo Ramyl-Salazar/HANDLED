@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.db
+*.db-*
+.codex/
+graphify-out/
+ace-*.png
+
+.vercel
+.env*
+.agents/
+skills-lock.json
