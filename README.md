@@ -16,7 +16,7 @@ Live Vercel application: [ace-er-scheduling.vercel.app](https://ace-er-schedulin
 
 More screens: [Nurses team](docs/screenshots/team-desktop.png).
 
-Videos: [43-second client demo](docs/videos/client-demo.mp4) · [desktop walkthrough](docs/videos/desktop-tour.mp4) · [mobile walkthrough](docs/videos/mobile-tour.mp4). The client demo is captioned and silent; all captures use synthetic demo data.
+Videos: [44-second client demo](docs/videos/client-demo.mp4) · [desktop walkthrough](docs/videos/desktop-tour.mp4) · [mobile walkthrough](docs/videos/mobile-tour.mp4). The client demo follows one workflow (staff requests → generated draft → 19 coverage decisions → published two-week schedule) captured from the running app. On-screen captions carry the story with the sound off, and the music is an original synthesized score. All captures use synthetic demo data.
 
 ## How it works
 
